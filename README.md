@@ -1,4 +1,4 @@
-# Newton-Method-Optimizer
+# Newton's-Method-Optimizer
 ## Step 1 - Implementing Newton’s Method optimizer
 
 In this step I will write a python function, `newton`, which
